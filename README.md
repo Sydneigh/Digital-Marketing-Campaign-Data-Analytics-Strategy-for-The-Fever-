@@ -1,6 +1,6 @@
-Challenge Kickstarter Analysis with Excel
+ Kickstarter Analysis with Excel
 1 Overview of Project
-Louise, an up and coming playwright, started a crowdfunding campaign to fund her new play titled Fever. Louise realised that  a data analysis could come in handy to determine campaign key factors in relation to launch dates, funding goals and outcomes of other campaigns. At her request, the analysis compared these key factors to other campaigns and sought out predictors for success. Fortunately her campaign was victorious, and the fundraising goal was met. 
+Louise, an up and coming playwright, started a crowdfunding campaign to fund her new play titled The Fever. Louise realised that  a data analysis could come in handy to determine campaign key factors in relation to launch dates, funding goals and outcomes of other campaigns. At her request, the analysis compared these key factors to other campaigns and sought out predictors for success. Fortunately her campaign was victorious, and the fundraising goal was met. 
 
 Purpose
 
@@ -39,7 +39,7 @@ Our line graph visualises the connection between the goal-amount ranges on the x
 Challenges and Difficulties Encountered
 The most challenging part of this project is the analysis of  outcomes based on goals. To  make the labels reflect the goal ranges can pose a problem. Hopefully we can  rely on the excel community of professionals who are always eager to help. 
  3.   Results
-What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+What are two conclusions that  can drawn about the Theater Outcomes by Launch Date?
 The first conclusion we can draw from the "Outcomes Based on Launch Date" line graph is there are more campaigns launched overall in May, June, July. The second conclusion we can draw is campaigns launched in May had a higher incidence of success. Louise should launch future campaigns in May.
 
 What can you conclude about the Outcomes based on Goals?
@@ -61,6 +61,6 @@ Bubble Chart
 Waterfall Chart
 Funnel Chart
 Bullet Chart
-Heat Map
+
 
 
