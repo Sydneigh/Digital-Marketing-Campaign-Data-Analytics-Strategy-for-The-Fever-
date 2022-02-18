@@ -64,15 +64,19 @@ The most challenging part of this project is the analysis of  outcomes based on 
 
 •	Set Realistic Funding Goal for The Fever Kickstarter Campaign
 As the data analysis shows above, campaigns with goals less than $5000 had the highest incidence of success.  It is advisable to follow the guidance of the analysis.
+
 •	Launch Date & Deadline
 The data analysis shows that the best period to launch a campaign is in May. Granted Louise approves the launch date, the deadline should be short. In fact the shorter, the campaign the higher rate it is going to have on Kickstarter. Creating a sense of urgency is an effective way to grab the attention of potential supporters as early as possible. Hence, a 30-day campaign,  launching in May is my recommendation.
+
 •	Press Release Video
 After the launch date is set, a press release video needs to be released to announce the upcoming campaign –“The Fever”.  Filming a video in the  Elgin Theatre where the play  launches will give legitimacy to the campaign.  The video should be posted on Instagram(see Social Media) and  landing page.
+
 •	Buyer Personas
 Creating buyer personas is an essential step in understanding a target audience for the campaign. The first step to creating buyer personas is to do in-depth market research and analysis. I decided to conduct personal interviews as a primary research method. My one-on-one interviews with 3 Canadians from different backgrounds helped me connect with a potential market.  As such, the buyer personas were created based on information like demographics, online behaviour, interests, languages, goals, frustrations etc. 
 
 
 ![1](https://user-images.githubusercontent.com/96391154/154591794-ebeee172-d4f8-41eb-9d01-fc9cb189af75.png)![2](https://user-images.githubusercontent.com/96391154/154591809-96aa5ae7-b3a9-42c5-9f74-519c7879cea9.png)
+
 
 
 •	Landing Page & Blog
@@ -82,8 +86,11 @@ Thefeverplay.com
 ![landing page The Fever](https://user-images.githubusercontent.com/96391154/154591890-ed71c0a3-97b8-4b13-b90b-cdb2ee5807e7.png)
 
 
+
 •	Rewards
 Potential backers donate to a crowdfunding campaign because they want to feel like they are an integral part of the project. Low-cost items such as T-shirts or stickers with a handwritten thank you note will help promoting the campaign. Adding an invite to attend the exclusive launch event  will help building trust in the success of the campaign.
+
+
 •	SEO & PPC
 Starting the SEO & PPC campaign on Instagram is best   with the Facebook ads manager.  It is so as it has more scope for customization than creating ads in the  Instagram app per se.  Identifying valuable keywords to optimise the campaign page should be the focus of the SEO marketing strategy.  In fact the play launches at the Elgin Theatre, which combined with the play title gives new keyword phrases.  Facebook ads manager  is a great tool to assess the value of the keyword phrases and bid on them.  The manager gives us an option to choose the objectives. Choosing the objective – Sending people to your website will direct the visitors directly to thefeverplay.com. Before setting the bidding, budget needs to be set. I recommend choosing a daily budget  and the ad will run for the duration of the campaign (30 days).  Setting a start and end date will schedule the ads appropriately. 
 
@@ -92,6 +99,8 @@ Starting the SEO & PPC campaign on Instagram is best   with the Facebook ads man
 
 
 Targeting the desired audience is one of the main strength of PPC advertising on Instagram. I recommend using buyer personas I have created (see buyer personas). The final step when setting up the Facebook ads campaign is creating the ad itself. Single image and single video are the best choices. 
+
+
 •	Social Media
 For the Fever campaign to be victorious, it is paramount to be a part of online communities.  I advise to focus exclusively on the Instagram account.  Setting a goal for the Instagram marketing strategy will help visualise expectations and  outcomes.  The first goal is to get 1,000 organic, engaged followers in 30 days(campaign duration). For this to happen, certain  tactics (see below) should be applied. Next step is assessing similar fundraising campaigns on Instagram.   By doing so, the campaign will connect directly with the 3  buyer personas which will generate  Instagram followers. 
 Creating a content calendar for the duration of the campaign will help be regular on the platform. Hashtags should be selected for  the campaign and content promotion.  Spending some time searching for the playwright, scriptwriter, Elgin Theatre or kickstarter hashtags, for instance, should highlight potential followers. By following them, there’s an opportunity to establish a community of people who think like Louise. Indeed, by doing so she will be able to build trust in her campaign and generate followers.
