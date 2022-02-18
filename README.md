@@ -2,7 +2,7 @@
  
 1 Overview of Project
 
-Louise, an up and coming playwright, started a crowdfunding campaign to fund her new play titled The Fever. Louise realised that  a data analysis could come in handy to determine campaign key factors in relation to launch dates, funding goals and outcomes of other campaigns. At her request, the analysis compared these key factors to other campaigns and sought out predictors for success. In addition, Louise is in need of a digital marketing campaign. Fundraising is never easy, but with a strategic and careful planning combined with  data analytics Louise has better chances of hitting her target. 
+Louise, is a Toronto based playwright, started a crowdfunding campaign to fund her new play titled The Fever. Louise realised that  a data analysis could come in handy to determine campaign key factors in relation to launch dates, funding goals and outcomes of other campaigns. At her request, the analysis compared these key factors to other campaigns and sought out predictors for success. In addition, Louise is in need of a digital marketing campaign. Fundraising is never easy, but with a strategic and careful planning combined with  data analytics Louise has better chances of hitting her target. 
 
 Data Analytics Strategy
 
@@ -71,21 +71,33 @@ After the launch date is set, a press release video needs to be released to anno
 •	Buyer Personas
 Creating buyer personas is an essential step in understanding a target audience for the campaign. The first step to creating buyer personas is to do in-depth market research and analysis. I decided to conduct personal interviews as a primary research method. My one-on-one interviews with 3 Canadians from different backgrounds helped me connect with a potential market.  As such, the buyer personas were created based on information like demographics, online behaviour, interests, languages, goals, frustrations etc. 
 
+
 ![1](https://user-images.githubusercontent.com/96391154/154591794-ebeee172-d4f8-41eb-9d01-fc9cb189af75.png)![2](https://user-images.githubusercontent.com/96391154/154591809-96aa5ae7-b3a9-42c5-9f74-519c7879cea9.png)
+
+
 •	Landing Page & Blog
 A self-hosted WordPress website – thefeverplay.com is an excellent opportunity for Louise to display the campaign’s progress. In addition,  WordPress plugins such Qards, Beaver Builder or WP Landing help will help set the page up. In addition, when creating a website, incorporating UX, UI best practices should make a priority. For instance, A/B testing  is one of the helpful methods of designing a successful landing page. The website is, indeed,  a great host for content. A blog, to be precise, will reassure potential backers of the campaign’s legitimacy.  Using an email marketing tool such Hubspot or MailChimp  will keep the backers updated about latest news.  
 Thefeverplay.com
 
 ![landing page The Fever](https://user-images.githubusercontent.com/96391154/154591890-ed71c0a3-97b8-4b13-b90b-cdb2ee5807e7.png)
+
+
 •	Rewards
 Potential backers donate to a crowdfunding campaign because they want to feel like they are an integral part of the project. Low-cost items such as T-shirts or stickers with a handwritten thank you note will help promoting the campaign. Adding an invite to attend the exclusive launch event  will help building trust in the success of the campaign.
 •	SEO & PPC
 Starting the SEO & PPC campaign on Instagram is best   with the Facebook ads manager.  It is so as it has more scope for customization than creating ads in the  Instagram app per se.  Identifying valuable keywords to optimise the campaign page should be the focus of the SEO marketing strategy.  In fact the play launches at the Elgin Theatre, which combined with the play title gives new keyword phrases.  Facebook ads manager  is a great tool to assess the value of the keyword phrases and bid on them.  The manager gives us an option to choose the objectives. Choosing the objective – Sending people to your website will direct the visitors directly to thefeverplay.com. Before setting the bidding, budget needs to be set. I recommend choosing a daily budget  and the ad will run for the duration of the campaign (30 days).  Setting a start and end date will schedule the ads appropriately. 
+
+
 ![Set daily budget](https://user-images.githubusercontent.com/96391154/154591986-f1d53189-c2a7-4074-ac1f-e1b9c64cb708.png)
+
+
 Targeting the desired audience is one of the main strength of PPC advertising on Instagram. I recommend using buyer personas I have created (see buyer personas). The final step when setting up the Facebook ads campaign is creating the ad itself. Single image and single video are the best choices. 
 •	Social Media
 For the Fever campaign to be victorious, it is paramount to be a part of online communities.  I advise to focus exclusively on the Instagram account.  Setting a goal for the Instagram marketing strategy will help visualise expectations and  outcomes.  The first goal is to get 1,000 organic, engaged followers in 30 days(campaign duration). For this to happen, certain  tactics (see below) should be applied. Next step is assessing similar fundraising campaigns on Instagram.   By doing so, the campaign will connect directly with the 3  buyer personas which will generate  Instagram followers. 
 Creating a content calendar for the duration of the campaign will help be regular on the platform. Hashtags should be selected for  the campaign and content promotion.  Spending some time searching for the playwright, scriptwriter, Elgin Theatre or kickstarter hashtags, for instance, should highlight potential followers. By following them, there’s an opportunity to establish a community of people who think like Louise. Indeed, by doing so she will be able to build trust in her campaign and generate followers.
+
+
+
 ![Instagram 30 day content calendar](https://user-images.githubusercontent.com/96391154/154592049-90b0d459-33b8-43ca-b753-b428e087a84d.png)
 
 
@@ -96,14 +108,18 @@ Creating a content calendar for the duration of the campaign will help be regula
 
 
  4   Results
-What are two conclusions that  can drawn about the Theater Outcomes by Launch Date?
+ 
+ Data Analytics Strategy
+ 
+What are two conclusions that we can draw about the Theater Outcomes by Launch Date?
 The first conclusion we can draw from the "Outcomes Based on Launch Date" line graph is there are more campaigns launched overall in May, June, July. The second conclusion we can draw is campaigns launched in May had a higher incidence of success. Louise should launch future campaigns in May.
 
 What can you conclude about the Outcomes based on Goals?
 From the "Outcomes Based on Goals" chart, we can conclude that campaigns with lower goals are more successful. Campaigns with goals less than $5000 had the highest incidence of success.
 
 What are some limitations of this dataset?
-The main limitation is the lack of  information about the backers, the people who are  donating the money. Having the demographic information can help Louise create a persona-based segmentation marketing strategy for future fundraising endeavours.  
+The main limitation is the lack of  information about the backers, the people who are  donating the money. 
+
 What are some other possible tables and/or graphs that we could create?
 Column Chart
 Bar Graph
@@ -118,6 +134,16 @@ Bubble Chart
 Waterfall Chart
 Funnel Chart
 Bullet Chart
+
+
+Digital Marketing Campaign 
+
+
+ What are three conclusions that can we can draw about the Instagram marketing campaign? 
+The first conclusion is that the success of the campaign depends on the content.  The second conclusion is that deliberately choosing a certain social media platform gives us better chances of successfully targeting buyer personas. The conclusion is that being proactive and persistent on Instagram yield good results 
+
+What are some limitation of the Instagram marketing campaign?
+Instagram doesn’t offer much room for additional content. In addition,  we cannot reach men and women equally on Instagram. In fact, about 32% of the active monthly users on this social media platform are men.
 
 
 
